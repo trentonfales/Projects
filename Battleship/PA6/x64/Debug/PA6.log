@@ -1,0 +1,77 @@
+﻿  main.c
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(56): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(56): warning C4024: 'manually_place_all_ships': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(56): warning C4024: 'manually_place_all_ships': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(60): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(60): warning C4024: 'randomly_place_all_ships': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(60): warning C4024: 'randomly_place_all_ships': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(63): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(63): warning C4024: 'randomly_place_all_ships': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(63): warning C4024: 'randomly_place_all_ships': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(68): warning C4047: '!=': 'int *' differs in levels of indirection from 'int'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(76): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(76): warning C4024: 'get_target': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(76): warning C4024: 'get_target': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(77): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(77): warning C4024: 'check_shot': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(77): warning C4024: 'check_shot': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(77): warning C4024: 'check_shot': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(77): warning C4024: 'check_shot': different types for formal and actual parameter 5
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(78): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(78): warning C4024: 'output_current_move': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(78): warning C4024: 'output_current_move': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(79): warning C4047: 'function': 'char (*)[10]' differs in levels of indirection from 'char (*)[10][10]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(79): warning C4024: 'update_board': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(79): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(79): warning C4024: 'update_board': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(79): warning C4024: 'update_board': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(80): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(96): warning C4047: 'function': 'char (*)[10]' differs in levels of indirection from 'char (*)[10][10]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(96): warning C4024: 'computer_selects': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(96): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(96): warning C4024: 'computer_selects': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(96): warning C4024: 'computer_selects': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(98): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(98): warning C4024: 'check_shot': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(98): warning C4024: 'check_shot': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(98): warning C4024: 'check_shot': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(98): warning C4024: 'check_shot': different types for formal and actual parameter 5
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(99): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(99): warning C4024: 'output_current_move': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(99): warning C4024: 'output_current_move': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(100): warning C4047: 'function': 'char (*)[10]' differs in levels of indirection from 'char (*)[10][10]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(100): warning C4024: 'update_board': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(100): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(100): warning C4024: 'update_board': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(100): warning C4024: 'update_board': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(101): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(97): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(97): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(97): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\main.c(97): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+  functions.c
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(114): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[12]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(114): warning C4024: 'input_start_point': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(119): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(119): warning C4024: 'input_start_point': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(124): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[12]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(124): warning C4024: 'input_start_point': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(129): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[14]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(129): warning C4024: 'input_start_point': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(134): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[14]'
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(134): warning C4024: 'input_start_point': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(219): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+c:\users\trent\onedrive\documents\cpts 121\pa6\pa6\functions.c(213): warning C4715: 'select_who_starts_first': not all control paths return a value
+  LINK : C:\Users\trent\OneDrive\Documents\CptS 121\PA6\x64\Debug\PA6.exe not found or not built by the last incremental link; performing full link
+  PA6.vcxproj -> C:\Users\trent\OneDrive\Documents\CptS 121\PA6\x64\Debug\PA6.exe
+  PA6.vcxproj -> C:\Users\trent\OneDrive\Documents\CptS 121\PA6\x64\Debug\PA6.pdb (Full PDB)
