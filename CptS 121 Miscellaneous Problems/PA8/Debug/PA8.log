@@ -1,0 +1,22 @@
+﻿  main.c
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4024: 'maximum_occurences': different types for formal and actual parameter 1
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4047: 'function': 'Occurences *' differs in levels of indirection from 'Occurences *(*)[128]'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4024: 'maximum_occurences': different types for formal and actual parameter 2
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4024: 'maximum_occurences': different types for formal and actual parameter 3
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(78): warning C4024: 'maximum_occurences': different types for formal and actual parameter 4
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(81): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\main.c(82): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  functions.c
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(35): warning C4098: 'my_str_n_cat': 'void' function returning a value
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(74): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(76): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(116): warning C4018: '<=': signed/unsigned mismatch
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(139): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(140): warning C4047: '=': 'char *' differs in levels of indirection from 'char'
+  Generating Code...
+c:\users\trent\onedrive\documents\cpts 121\pa8\pa8\functions.c(96): warning C4715: 'is_palindrome': not all control paths return a value
+  LINK : C:\Users\trent\OneDrive\Documents\CptS 121\PA8\Debug\PA8.exe not found or not built by the last incremental link; performing full link
+  PA8.vcxproj -> C:\Users\trent\OneDrive\Documents\CptS 121\PA8\Debug\PA8.exe
+  PA8.vcxproj -> C:\Users\trent\OneDrive\Documents\CptS 121\PA8\Debug\PA8.pdb (Full PDB)
