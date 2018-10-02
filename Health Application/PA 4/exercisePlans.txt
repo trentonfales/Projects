@@ -1,0 +1,28 @@
+Walking Plan 1
+6000
+01/01/2018
+
+Walking Plan 2
+6750
+01/02/2018
+
+Walking Plan 3
+7500
+01/03/2018
+
+Walking Plan 4
+8250
+01/04/2018
+
+Walking Plan 5
+9000
+01/05/2018
+
+Walking Plan 6
+9500
+01/06/2018
+
+Walking Plan 7
+10000
+01/07/2018
+
